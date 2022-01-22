@@ -8,8 +8,14 @@ draft: false
 
 This is the second post. This is the second sentence.
 
-## Bullet list
+## H2
 
 - Oooh
 - Ahhh
 - Hmmm
+
+### H3
+Heading 3
+
+#### H4
+Heading 4
