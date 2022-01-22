@@ -2,6 +2,7 @@
 title: "Second Post"
 date: 2022-01-22T20:16:09Z
 draft: false
+summary: This is the second post. This is the second sentence.
 ---
 
 # Second Post!
